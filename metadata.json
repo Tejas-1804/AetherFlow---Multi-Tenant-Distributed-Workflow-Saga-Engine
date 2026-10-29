@@ -1,0 +1,6 @@
+{
+  "name": "AetherFlow - Multi-Tenant Distributed Workflow & Saga Engine",
+  "description": "Resilient distributed workflow automation engine with interactive visual DAG canvas, Saga compensation transactions, automatic retries with exponential backoff, multi-tenant isolation, and reactive MongoDB change stream coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

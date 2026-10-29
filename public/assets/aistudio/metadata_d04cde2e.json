@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tenant Distributed Workflow & Saga Orchestration Engine",
+  "description": "Enterprise multi-tenant DAG workflow orchestration engine featuring Saga compensations, exponential backoff retries, real-time WebSocket monitoring, sandboxed execution, and Dead Letter Queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
